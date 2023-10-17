@@ -5,5 +5,5 @@
 
 ## Local development
 ```sh
-conda create -n DanaAnalysis python=3.10 ipykernel
+conda create -n DataAnalysis python=3.10 ipykernel
 ```
